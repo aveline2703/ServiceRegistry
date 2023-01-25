@@ -1,4 +1,4 @@
-package com.pratik.www.serviceregistry;
+package com.aveline.www.serviceregistry;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
